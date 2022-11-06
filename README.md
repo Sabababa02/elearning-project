@@ -1,6 +1,6 @@
 # elearning-project
 
-# Table of contents 
+## Table of contents 
 	-[Links]
 	-[Build with]
 	-[What I learned]
